@@ -64,7 +64,6 @@ class PlacemarksDataProvider {
         dataTask?.resume()
     }
     
-    
     /// Update result data
     ///
     /// - Parameter data: The data from the server
