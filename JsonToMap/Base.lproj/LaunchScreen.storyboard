@@ -16,16 +16,7 @@
                     <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo-small-m-tribes" translatesAutoresizingMaskIntoConstraints="NO" id="rx8-fI-AIB">
-                                <rect key="frame" x="62.5" y="218.5" width="250" height="250"/>
-                            </imageView>
-                        </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                        <constraints>
-                            <constraint firstItem="rx8-fI-AIB" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="Cug-3Y-KcI"/>
-                            <constraint firstItem="rx8-fI-AIB" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="sic-db-bNb"/>
-                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
@@ -34,7 +25,4 @@
             <point key="canvasLocation" x="53" y="375"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="logo-small-m-tribes" width="250" height="250"/>
-    </resources>
 </document>
